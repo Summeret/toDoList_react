@@ -1,0 +1,14 @@
+main {
+    text-align:center;
+    padding:5px 10px;
+    background-color:#fff;
+    width:400px; height:30px;
+    display:flex; justify-content:space-between;
+    border:1px solid rgba(0,0,0,0.3);
+    border-radius:10px;
+    margin-bottom:20px;
+}
+main input {
+    font-size:0.875rem;
+}
+main button {}
